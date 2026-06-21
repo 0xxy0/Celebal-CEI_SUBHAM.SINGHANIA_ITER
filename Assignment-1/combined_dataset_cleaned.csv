@@ -1,0 +1,8 @@
+product_id,title,price,quantity,category,rating,total_amount
+1,T-shirt,20.0,2.0,Clothing,4.3,40.0
+2,Sneakers,80.0,1.0,Footwear,4.7,80.0
+3,Headphones,50.0,3.0,Electronics,4.3,150.0
+4,Mug,20.0,4.0,Home,4.1,80.0
+6,Jacket,120.0,3.0,Clothing,4.8,360.0
+7,Notebook,5.0,10.0,Stationery,4.0,50.0
+8,Socks,10.0,5.0,Clothing,4.3,50.0
