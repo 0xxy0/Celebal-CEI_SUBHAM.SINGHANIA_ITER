@@ -15,6 +15,7 @@ Each week’s work is organized into its own folder with notebooks, datasets, an
 | Week 4 | Azure Data Factory — Pipeline Build                 | ✅ Done      |
 | Week 5 | Spark Essentials — Cleaning & Aggregation           | ✅ Done      |
 | Week 6 | Spark Architecture & PySpark (CSV vs Parquet)       | ✅ Done      |
+| Week 7 | Delta Lake MERGE Implementation — Superstore Data   | ✅ Done      |
 
 ---
 
@@ -30,9 +31,9 @@ Each week’s work is organized into its own folder with notebooks, datasets, an
 
 ## 🙋 About Me
 
-- **Name:** Subham  Singhania
+- **Name:** Subham Singhania  
 - **Role:** Data Engineering Intern @ Celebal Technologies  
-- **Education:** Final-year B.Tech CSE(DS), ITER (SOA University), Bhubaneswar 
+- **Education:** Final-year B.Tech CSE(DS), ITER (SOA University), Bhubaneswar  
 
 ---
 
